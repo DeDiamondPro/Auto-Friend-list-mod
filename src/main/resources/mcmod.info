@@ -1,0 +1,16 @@
+[
+{
+  "modid": "autofl",
+  "name": "Auto Friend List",
+  "description": "Automatically do /friend list when you join hypixel",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["DeDiamondPro"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
